@@ -7,7 +7,7 @@
 | Hazırlayan =  | Hüseyin ASİLTÜRK | 
  
  
-## _Null Object Design Pattern_
+## _Null Object Design Pattern._
 
 
 
